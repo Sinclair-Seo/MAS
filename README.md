@@ -1,0 +1,2 @@
+# MAS
+Medigate Advertisement Server
